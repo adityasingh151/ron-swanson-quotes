@@ -20,7 +20,7 @@ Check out the live demo of the app [here](https://ron-swanson-quotes-two.vercel.
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-github-username/ron-swanson-quotes.git
+   git clone https://github.com/adityasingh151/ron-swanson-quotes.git
    cd ron-swanson-quotes
 2. Install dependencies:
 
