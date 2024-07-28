@@ -11,7 +11,7 @@ This is a simple React application that displays random Ron Swanson quotes. The 
 
 ## Demo
 
-Check out the live demo of the app [here](https://ron-swanson-quotes-two.vercel.app/).
+Check out the live demo of the app [here](https://ron-swanson-quotes-wine.vercel.app/).
 
 
 
